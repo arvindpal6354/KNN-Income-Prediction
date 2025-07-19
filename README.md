@@ -1,4 +1,4 @@
-<img width="1775" height="709" alt="image" src="https://github.com/user-attachments/assets/21ac1e14-e132-46ea-b2c6-2592d5b26b3d" /># KNN-Income-Prediction
+# KNN-Income-Prediction
 🎓 IBM SkillBuild AI/ML Internship Project
 
 This project was developed as part of the **IBM SkillBuild AI/ML Internship**.  
