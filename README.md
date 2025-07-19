@@ -1,4 +1,4 @@
-# KNN-Income-Prediction
+<img width="1775" height="709" alt="image" src="https://github.com/user-attachments/assets/21ac1e14-e132-46ea-b2c6-2592d5b26b3d" /># KNN-Income-Prediction
 🎓 IBM SkillBuild AI/ML Internship Project
 
 This project was developed as part of the **IBM SkillBuild AI/ML Internship**.  
@@ -54,20 +54,19 @@ The prediction is based on demographic and employment-related features such as:
 ## 📸 Screenshots
 
 ### 1. Uploading Dataset and Preview  
-![Upload](https://github.com/arvindpal6354/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104035.png?raw=true)
+<img width="1775" height="709" alt="image" src="https://github.com/user-attachments/assets/2eb1bbac-0e10-4dcd-aa3a-e5743c268f05" />
 
 ### 2. After Label Encoding  
-![Encoded Data](https://github.com/arvindpal6354/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104113.png?raw=true)
+<img width="1746" height="544" alt="image" src="https://github.com/user-attachments/assets/e0be8190-a8e6-4d6a-8219-95bcd813a52e" />
 
 ### 3. Model Accuracy and Report  
-![Accuracy Report](https://github.com/arvindpal6354/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104248.png?raw=true)
+<img width="876" height="409" alt="image" src="https://github.com/user-attachments/assets/6b03bf0b-ebba-4ade-b0e5-46d30fa6e1ad" />
 
 ### 4. Confusion Matrix  
-![Confusion Matrix](https://github.com/arvindpal6354/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104307.png?raw=true)
+<img width="670" height="722" alt="image" src="https://github.com/user-attachments/assets/c82c9403-fe7d-42c4-a3b4-f7cac1312cf4" />
 
 ### 5. Accuracy vs K Value Plot  
-![K Accuracy Plot](https://github.com/arvindpal6354/KNN-Income-Prediction/blob/main/screenshots/Screenshot%202025-07-19%20104327.png?raw=true)
-
+<img width="719" height="571" alt="image" src="https://github.com/user-attachments/assets/2f1ac404-65d0-43eb-960b-b29d612b9437" />
 
 ---
 
